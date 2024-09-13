@@ -1,6 +1,6 @@
--  Ola, Meu Nome e Felipe Goncalves
--  estudando javascript
-
+-  Ola, sou Felipe Goncalves
+-  Estudando javascript
+-  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
